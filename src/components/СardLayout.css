@@ -1,0 +1,26 @@
+.wrapper{
+    width: 250px;
+    height: 310px;
+    border: 2px solid rgb(248, 245, 245);
+    display: flex;
+    border-radius: 5%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.422);
+
+}
+.img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+position: relative;
+bottom: 40px;
+left: 10px;
+border: 2px solid rgba(255, 255, 255, 0.929);
+
+}
+.wallpaper{
+    width: 250px;
+    height: 100px;
+    background-color:  rgb(0, 81, 119);
+border-top-left-radius: 10px 10px;
+border-top-right-radius: 10px 10px;
+}
